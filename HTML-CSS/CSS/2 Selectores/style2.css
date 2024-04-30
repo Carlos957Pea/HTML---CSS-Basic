@@ -1,0 +1,19 @@
+
+spam {
+    color: green;
+}
+
+/* Selector por elemento */
+li {
+    color: red;
+}
+
+/* Selector por clase */
+.dulces {
+    color: yellow;
+}
+
+/* Selector por id */
+#ingrediente-secreto {
+    color: blue;
+}

@@ -1,0 +1,26 @@
+h1 {
+    font-family: Dalto;
+    font-weight: 900;
+}
+
+.otro1 {
+    font-family: Dalto;
+    font-weight: 900;
+}
+
+p {
+    /* Importamos la tipografia */
+    font-family: Dalto;
+    font-weight: 500;
+
+}
+
+.otro {
+    font-family: Dalto;
+    font-weight: 200;
+}
+
+.otro2 {
+    font-family: Dalto;
+    font-weight: 100;
+}

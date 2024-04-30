@@ -1,0 +1,46 @@
+p {
+    color: red;
+    font-family: sans-serif;
+    /* Para darle tamaño a la letra, el defecto del navegador es 16px */
+    font-size: 16px;
+    /* Para darle negrita, es mas recomendable darle desde css */
+    /* bold lo establece en 700 */
+    /* bolder lo establce un nivel mas arriba */
+    /* font-weight: bold; */
+    font-weight: bold;
+    font-style: italic;
+    text-align: left;
+    text-decoration: none;
+    /* line-height nos sirve para dar espacio entre linea y linea */
+    line-height: 1.4;
+    /* letter-spacing nos sirve para dar espacios entre letras */
+    letter-spacing: 1px;
+    /* text-transform: uppercase nos sirve para darle mayusculas o minusculas.
+    text-transform: lowercase nos sirve para darle minusculas.
+    text-transform: capitalize nos sirve para darle mayusculas la primera. */
+    text-transform: none;
+    /* text-shadow nos sirve para darle sombra al texto.*/
+    text-shadow: 1px 1px 1px black;
+
+}
+
+span {
+    text-decoration: line-through;
+    color: aqua;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(47, 0, 255);
+}
+
+button {
+    letter-spacing: 9px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    color: purple;
+}
